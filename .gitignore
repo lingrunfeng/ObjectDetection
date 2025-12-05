@@ -27,3 +27,4 @@ runs/
 
 # OpenVINO
 *_openvino_model/
+!yolov8n_openvino_model/
