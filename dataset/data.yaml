@@ -1,0 +1,24 @@
+# YOLO 数据集配置文件
+# 路径相对于此文件的位置
+
+# 数据集路径
+path: /home/student26/ObjectDetection/dataset  # 数据集根目录
+train: images/train  # 训练集图片路径（相对于 path）
+val: images/val      # 验证集图片路径（相对于 path）
+
+# 类别数量
+nc: 5
+
+# 类别名称（必须与 classes.txt 中的顺序一致）
+names:
+  0: green_cube      # 绿色立方体
+  1: purple_cube     # 紫色立方体
+  2: blue_cube       # 蓝色立方体
+  3: yellow_cylinder # 黄色圆柱体
+  4: red_cube        # 红色立方体
+
+
+
+
+
+

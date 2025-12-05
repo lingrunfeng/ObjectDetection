@@ -1,0 +1,6 @@
+green_cube
+purple_cube
+blue_cube
+yellow_cylinder
+red_cube
+
